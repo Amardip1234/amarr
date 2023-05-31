@@ -1,0 +1,13 @@
+body {
+    padding: 20px;
+}
+.dashboard-heading {
+    margin-bottom: 30px;
+}
+.dashboard-card {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #f8f9fa;
+    margin-bottom: 20px;
+}
